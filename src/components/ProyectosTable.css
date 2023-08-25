@@ -1,0 +1,34 @@
+.proyectos-container {
+    margin-top: 20px;
+    width: 223px;
+  }
+  
+  .proyecto-item {
+    margin-bottom: 10px;
+  }
+  
+  h2 {
+    cursor: pointer;
+    margin: 0;
+    padding: 10px;
+    background-color: #f2f2f2;
+    border: 1px solid #ddd;
+  }
+  
+  .proyecto-content {
+    padding: 10px;
+    border: 1px solid #ddd;
+    background-color: #f9f9f9;
+    width: 200px;
+  }
+  
+  .proyecto-content p {
+    margin: 0;
+    margin-bottom: 10px;
+  }
+  
+  .proyecto-content a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
